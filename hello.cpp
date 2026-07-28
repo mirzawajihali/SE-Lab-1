@@ -8,6 +8,6 @@ int multiply(int a, int b)
 
 int main()
 {
-    cout << "Multiplication: " << multiply(4, 5) << endl;
+    cout << "Hello from feature branch!" << endl;
     return 0;
 }
